@@ -11,6 +11,7 @@ assignees: XenocodeRCE
 
 <///>
 **Your NETGuard.IO username :**
+(optional) send us by **mail** a download link to your file; put this issue link in the mail. Do not post download link here !
 <///>
 
 **Describe the bug**
@@ -32,7 +33,6 @@ If applicable, add screenshots to help explain your problem.
 **Desktop (please complete the following information):**
  - OS: [e.g. Windows x64 / x32]
  - Framework [e.g. FW 2.0, FW 4.7.1]
- - Version [e.g. 22]
 
 **Additional context**
 Add any other context about the problem here.
