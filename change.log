@@ -1,1 +1,2 @@
+02-06-2019 : Code Flow Protection protection has been updated to use a satellite assembly, improving the obscurity of the output. Anti Debug protection has been updated to do pattern-based scanning
 10-05-2019 : fix problem with libraries and native shield protection
