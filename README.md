@@ -25,7 +25,7 @@ To report an issue please go ahead to the [Issue](https://github.com/XenocodeRCE
 Please prefer the [Issue](https://github.com/XenocodeRCE/NETGuardObfuscator/issues) page for technical report.
 
 Bonjour ! You can contact our tech support by sending a mail to **support@[our domain including IO**]. 
-If mails are too old-fashioned for you, I also have Discord : `jusdepomme[hashtaaag typo is intended]60 twenty eight`. Speaking of discord, you can also **join this Obfuscator's Discord community** right [there](https://discord[dot gg]/BMY3aQe) (be respectful).
+If mails are too old-fashioned for you, I also have Discord : `jusdepomme[hashtaaag typo is intended]60 twenty eight`. Speaking of discord, you can also **join this Obfuscator's Discord community** right [there](https://discord[dot gg]/YTTQSvG) (be respectful).
 
 # Legal Notice
 This is not an open-source project. Please read the [NotLicense](https://github.com/XenocodeRCE/NETGuardObfuscator/blob/master/NoLicense.md) notice. 
