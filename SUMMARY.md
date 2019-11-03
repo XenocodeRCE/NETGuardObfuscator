@@ -1,0 +1,20 @@
+# Table of contents
+
+* [Welcome to NETGuard.IO Help Desk](README.md)
+* [Obfuscation Features](obfuscation-features/README.md)
+  * [MSIL Code Encryption](obfuscation-features/msil-code-encryption.md)
+  * [Protections of Constants](obfuscation-features/protections-of-constants.md)
+  * [Hide Call Protection](obfuscation-features/hide-call-protection.md)
+  * [Renaming Protection](obfuscation-features/renaming-protection.md)
+  * [Code Flow Protection](obfuscation-features/code-flow-protection.md)
+  * [Resources Protection](obfuscation-features/resources-protection.md)
+  * [Anti Debugger Protection](obfuscation-features/anti-debugger-protection.md)
+  * [Anti De4Dot](obfuscation-features/anti-de4dot.md)
+  * [Anti Dump](obfuscation-features/anti-dump.md)
+  * [MD5 Checksum](obfuscation-features/md5-checksum.md)
+  * [Native Shield](obfuscation-features/native-shield.md)
+  * [Method Integrity Checker](obfuscation-features/method-integrity-checker.md)
+  * [Variable Melting Protection](obfuscation-features/variable-melting-protection.md)
+  * [Memory Optimizer](obfuscation-features/memory-optimizer.md)
+* [Payment](payment.md)
+
