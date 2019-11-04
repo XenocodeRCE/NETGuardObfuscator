@@ -1,5 +1,7 @@
 # Pricing Plans
 
+![](../../.gitbook/assets/icons8-sac-dargent-yen-64.png)
+
 ## BASIC PLAN
 
 {% tabs %}

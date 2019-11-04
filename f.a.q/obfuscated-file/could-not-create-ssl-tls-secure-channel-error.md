@@ -1,8 +1,12 @@
 # "Could not create SSL/TLS secure channel" error
 
-This error can happen if you use a webClient to access an SSL/TLS secured endpoint.
+![](../../.gitbook/assets/icons8-recu-refuse-64.png)
 
-Add this code to your method to remove the issue :
+{% hint style="warning" %}
+This error can happen if you use a webClient to access an SSL/TLS secured endpoint.
+{% endhint %}
+
+Simply add this code to your method to remove the issue :
 
 {% tabs %}
 {% tab title="\[C\#\]" %}

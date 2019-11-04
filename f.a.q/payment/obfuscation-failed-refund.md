@@ -1,5 +1,7 @@
 # Obfuscation failed, refund ?
 
+![](../../.gitbook/assets/icons8-remboursement-2-64.png)
+
 In this case we ask you to contact us by [mail](mailto:support@netguard.io) or live chat.
 
 {% hint style="info" %}
