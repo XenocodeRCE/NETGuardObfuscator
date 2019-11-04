@@ -6,7 +6,5 @@
 
 {% page-ref page="protections/" %}
 
-{% page-ref page="f.a.q/" %}
-
 {% page-ref page="obfuscation-tips/" %}
 

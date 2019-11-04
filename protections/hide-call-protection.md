@@ -6,13 +6,13 @@ description: 'Obscure and hide method calls, internal and external.'
 
 ![](../.gitbook/assets/hidecall.png)
 
-### Description
+## Description
 
 Another thing that might reveal your sensitive code and how your program works is the Call Flow Graph of your application. The Call Flow of your program allow the hacker to trace the program flow trough all the methods in the classes.
 
 NETGuard engines will replace called method by proxy methods, and those proxy methods will be hidden and kept safe from lurking eyes using non-documented opcodes.
 
-### Code Exemple
+## Code Exemple
 
 {% tabs %}
 {% tab title="BEFORE" %}
@@ -34,9 +34,7 @@ ListViewItem listViewItem = <Module>.ó\u00B2)\u00A5Ä(calli(System.Windows.Form
 {% endtab %}
 {% endtabs %}
 
-
-
-### Obfuscation Impacts
+## Obfuscation Impacts
 
 {% hint style="success" %}
 **Targets : Methods and Functions**

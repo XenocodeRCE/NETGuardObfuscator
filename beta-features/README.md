@@ -20,7 +20,7 @@ To gain access to the βeta membership you must fulfill certain conditions. Plea
 
 {% page-ref page="native-anti-tamper.md" %}
 
-## How to exclude it ? 
+## How to exclude it ?
 
 Due to the nature of this security, the resulting code can have performance impact.
 
@@ -33,9 +33,9 @@ Please use the Obfuscation Attribute like in our exemple to prevent this securit
 [Obfuscation(Exclude = false, Feature = "-native")]
 private static void Main()
 {
-	Application.EnableVisualStyles();
-	Application.SetCompatibleTextRenderingDefault(false);
-	Application.Run(new frmMain());
+    Application.EnableVisualStyles();
+    Application.SetCompatibleTextRenderingDefault(false);
+    Application.Run(new frmMain());
 }
 ```
 

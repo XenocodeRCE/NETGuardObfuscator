@@ -10,5 +10,3 @@ Bitcoin payment needs 3 block-chain verification. This can take up to 30 minutes
 Our payment platform uses anti-fraud system for PayPal payment, any attempt of fraud will result to an instant ban of your account on any of our services.
 {% endhint %}
 
-
-

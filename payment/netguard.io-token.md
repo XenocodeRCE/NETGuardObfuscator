@@ -2,13 +2,13 @@
 
 ## NETGuard is a pay-per-use service that use Token as currency
 
-It means that you will **only pay for what you use**, you will not be charged monthly and pay for days when you want to obfuscate your file only once in a while.  
-  
-`A token is a digital coin that you use in order to unlock the premium statu and then be able to select premium obfuscation techniques.`  
-  
-That means **you can select as many obfuscation features as you want**, in the end you will always pay only one token. 
+It means that you will **only pay for what you use**, you will not be charged monthly and pay for days when you want to obfuscate your file only once in a while.
 
-Let's take an exemple with an imaginary program : 
+`A token is a digital coin that you use in order to unlock the premium statu and then be able to select premium obfuscation techniques.`
+
+That means **you can select as many obfuscation features as you want**, in the end you will always pay only one token.
+
+Let's take an exemple with an imaginary program :
 
 | Filename | MD5 | Token cost |
 | :--- | :--- | :--- |

@@ -10,5 +10,3 @@ However, if 2 hours ago you protected `YourProgram.exe v1.0` and now you want to
 We use **MD5** comparison to determine if files are equal or not.
 {% endhint %}
 
-
-

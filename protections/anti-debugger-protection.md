@@ -6,13 +6,13 @@ description: Prevents your file from running if a debugger is found on the machi
 
 ![](../.gitbook/assets/antidebug.png)
 
-### Description
+## Description
 
-NETGuard.IO can prevent your file from being debugged by debugging tools and decompilers. We use WinAPI and managed techniques to prevent your file from being ran if a debugger is detected on the computer. 
+NETGuard.IO can prevent your file from being debugged by debugging tools and decompilers. We use WinAPI and managed techniques to prevent your file from being ran if a debugger is detected on the computer.
 
 We automatically remove the file from the computer if a debugger is found in order to prevent any attempt at tampering your file.
 
-### Obfuscation Impacts
+## Obfuscation Impacts
 
 {% hint style="success" %}
 **Targets : Assembly**

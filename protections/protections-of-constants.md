@@ -10,9 +10,9 @@ description: 'Encrypt strings, numbers and arrays, and mutate result.'
 
 ### Description
 
-NETGuard offers to encode and encrypt string-based data. Strings are first encrypted using professional standard encryption algorithm to prevent any leak of data. 
+NETGuard offers to encode and encrypt string-based data. Strings are first encrypted using professional standard encryption algorithm to prevent any leak of data.
 
-The encryption part partially relies on x86 machine code generated method to prevent decompilers to retrieve the code logic.Then the newly created piece of code is encoded using state of the art obfuscation techniques to prevent anyone from understanding the code. 
+The encryption part partially relies on x86 machine code generated method to prevent decompilers to retrieve the code logic.Then the newly created piece of code is encoded using state of the art obfuscation techniques to prevent anyone from understanding the code.
 
 The second step actually mutates the code into a meaningless code that makes the method safe from hackers.
 
@@ -60,8 +60,6 @@ array3[(3.0 * (double)num >= 10.0 + Math.Pow((double)num, 4.0) + (double)num * 3
 {% endtab %}
 {% endtabs %}
 
-
-
 ### Obfuscation Impacts
 
 {% hint style="success" %}
@@ -73,6 +71,6 @@ array3[(3.0 * (double)num >= 10.0 + Math.Pow((double)num, 4.0) + (double)num * 3
 {% endhint %}
 
 {% hint style="info" %}
-**Some premium plans also have DRM Protection to put data used by the decoding routine  usually stored in the file, on a safe remote server**
+**Some premium plans also have DRM Protection to put data used by the decoding routine usually stored in the file, on a safe remote server**
 {% endhint %}
 

@@ -1,9 +1,9 @@
 # Obfuscation failed, refund ?
 
-In this case we ask you to contact us by [mail](mailto:support@netguard.io) or live chat. 
+In this case we ask you to contact us by [mail](mailto:support@netguard.io) or live chat.
 
 {% hint style="info" %}
- Always include as much detail as possible in your request to fasten the work of the tech team.
+Always include as much detail as possible in your request to fasten the work of the tech team.
 {% endhint %}
 
 After sending us the needed informations, there are 3 cases that might apply to you :

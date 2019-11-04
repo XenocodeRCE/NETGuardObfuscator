@@ -1,6 +1,6 @@
 # Is my personal data safe ?
 
-What do we save : 
+What do we save :
 
 * IP Addresses
 * General file informations

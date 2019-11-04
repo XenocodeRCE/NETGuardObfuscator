@@ -5,7 +5,7 @@ description: This is a quick tutorial on how to use our Desktop Application
 # NETGuard Desktop App
 
 {% hint style="info" %}
-This tutorial supposes you already have an account on NETGuard.IO ! 
+This tutorial supposes you already have an account on NETGuard.IO !
 {% endhint %}
 
 ## Download Link
@@ -23,16 +23,14 @@ Enter your username & password, then click "LOG IN"
 ![](.gitbook/assets/loginfrm.png)
 
 {% hint style="info" %}
-Note that you can activate "**AUTO LOGIN NEXT TIME**" 
+Note that you can activate "**AUTO LOGIN NEXT TIME**"
 {% endhint %}
 
-
-
-It will ask you for a secret key, you can find it on your online dashboard : 
+It will ask you for a secret key, you can find it on your online dashboard :
 
 ![Hold your mouse over the white dot to see your secret key](.gitbook/assets/d2bskq6.gif)
 
-## STEP 2 - SELECT THE FILE 
+## STEP 2 - SELECT THE FILE
 
 Next please select if your file is "**EXECUTABLE**" \(.exe\) or "**LIBRARY"** \(.dll\)
 
@@ -40,11 +38,9 @@ Next please select if your file is "**EXECUTABLE**" \(.exe\) or "**LIBRARY"** \(
 
 Then click the select arrow like on the image and once its done please click **CONTINUE**
 
-
-
 ## STEP 3 - DEPENDENCIES
 
-You will see a list of external dependencies for your file. If you see one missing dependency, please contact us :-\) 
+You will see a list of external dependencies for your file. If you see one missing dependency, please contact us :-\)
 
 ![](.gitbook/assets/step3.png)
 
@@ -64,9 +60,5 @@ If you have Beta membership you can click on "**SHOW BETA FEATURES**".
 If you are premium member, you can click on "**SIMPLE MODE**" to have a more simple menu.
 {% endhint %}
 
-
-
 Once you are done, please click "**START OBFUSCATION**". Please wait for your file to be protected.
-
-
 
