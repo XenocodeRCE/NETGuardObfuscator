@@ -2,7 +2,7 @@
 
 ## How to access your NETGuard Dashboard
 
-To start using NETGuard.IO visit [https://netguard.io/register.php](https://netguard.io/register.php) . After registering and logging in to your account, you will be asked to create a new project or to manager your alread-existing ones in your personnal **Dashboard**. From here you will also be able to use the top-menu to visit your **Account Settings**, **Payments History** and **Obfuscation History**.
+To start using NETGuard.IO visit [https://netguard.io/panel/register.php](https://netguard.io/panel/register.php) . After registering and logging in to your account, you will be asked to create a new project or to manager your alread-existing ones in your personnal **Dashboard**. From here you will also be able to use the top-menu to visit your **Account Settings**, **Payments History** and **Obfuscation History**.
 
 ![Over your mouse on the &apos;New Project&apos; box to create a new project](.gitbook/assets/001%20%281%29.png)
 
