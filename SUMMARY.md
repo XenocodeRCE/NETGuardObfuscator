@@ -3,6 +3,7 @@
 * [NETGuard.IO - Help Desk](README.md)
 * [Getting started](getting-started.md)
 * [Obfuscation Features](protections/README.md)
+  * [DRM Protection](protections/drm-protection.md)
   * [MSIL Code Encryption](protections/msil-code-encryption.md)
   * [Constants Protection](protections/protections-of-constants.md)
   * [Hide Call Protection](protections/hide-call-protection.md)
