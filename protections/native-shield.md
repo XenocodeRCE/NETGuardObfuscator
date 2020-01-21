@@ -21,7 +21,7 @@ This protection does not handle library \(.dll\) files, only executable \(.exe\)
 {% endhint %}
 
 {% hint style="success" %}
-**Strength :** ⭐⭐⭐⭐
+**Strenght :** ⭐⭐⭐⭐
 {% endhint %}
 
 {% hint style="warning" %}

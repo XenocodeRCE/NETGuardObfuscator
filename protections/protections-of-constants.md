@@ -16,7 +16,7 @@ The encryption part partially relies on x86 machine code generated method to pre
 
 The second step actually mutates the code into a meaningless code that makes the method safe from hackers.
 
-### Code Exemple
+### Code Example
 
 {% tabs %}
 {% tab title="BEFORE" %}
@@ -38,7 +38,7 @@ string s = string.Format(<Module>.SuppressMessageAttribute<string>((uint)((6.0 *
 
 Numbers in your code can be very sensitive, and reveal a part of your keys. With that in mind, NETGuard uses the same logic we can find in string protection for integers and other numbers : x86 method encoding, strong encryption of actual value coupled with number decomposition.
 
-### Code Exemple
+### Code Example
 
 {% tabs %}
 {% tab title="BEFORE" %}

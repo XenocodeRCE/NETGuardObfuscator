@@ -28,7 +28,7 @@ This protection logs IPs of whoever access your file, and prevents known hackers
 This protection serves an anti-cracking purpose.
 {% endhint %}
 
-## Code exemple
+## Code example
 
 {% tabs %}
 {% tab title="BEFORE" %}

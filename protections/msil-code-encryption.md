@@ -22,7 +22,7 @@ This protection serves an anti tampering purpose.
 This protection includes simple anti debugging checksum.
 {% endhint %}
 
-## Code exemple
+## Code example
 
 {% tabs %}
 {% tab title="BEFORE" %}

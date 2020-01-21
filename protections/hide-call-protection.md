@@ -12,7 +12,7 @@ Another thing that might reveal your sensitive code and how your program works i
 
 NETGuard engines will replace called method by proxy methods, and those proxy methods will be hidden and kept safe from lurking eyes using non-documented opcodes.
 
-## Code Exemple
+## Code Example
 
 {% tabs %}
 {% tab title="BEFORE" %}
