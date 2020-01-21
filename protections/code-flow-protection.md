@@ -12,7 +12,7 @@ The goal of this protection is to "spaghettify " the code execution flow while k
 
 The new method flow is meant to prevent hackers from understanding the method flow with ease. NETGuard uses VirtualMachine-based obfuscation techniques to protect the code flow stack value.
 
-## Code Example
+## Code Exemple
 
 {% tabs %}
 {% tab title="BEFORE" %}
@@ -94,7 +94,7 @@ private void testButton_Click(object sender, EventArgs e)
 {% endhint %}
 
 {% hint style="success" %}
-**Strength :** ⭐⭐⭐⭐
+**Strenght :** ⭐⭐⭐⭐
 {% endhint %}
 
 {% hint style="danger" %}

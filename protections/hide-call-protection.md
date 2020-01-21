@@ -12,7 +12,7 @@ Another thing that might reveal your sensitive code and how your program works i
 
 NETGuard engines will replace called method by proxy methods, and those proxy methods will be hidden and kept safe from lurking eyes using non-documented opcodes.
 
-## Code Example
+## Code Exemple
 
 {% tabs %}
 {% tab title="BEFORE" %}
@@ -41,7 +41,7 @@ ListViewItem listViewItem = <Module>.ó\u00B2)\u00A5Ä(calli(System.Windows.Form
 {% endhint %}
 
 {% hint style="success" %}
-**Strength :** ⭐⭐⭐
+**Strenght :** ⭐⭐⭐
 {% endhint %}
 
 {% hint style="success" %}

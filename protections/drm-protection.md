@@ -17,11 +17,11 @@ With the DRM Protection, NETGuard.IO will encrypt your strings with a strong Adv
 Due to the nature of the protection, your file will always need internet access once DRM Protection is applied. Also if our servers goes down, even temporarily, your file will not be able to run properly \(we use a DDOS-protected hosting service to prevent that\).
 
 {% hint style="danger" %}
-This protection needs your file to access the internet to run properly .
+This protection needs your file to access the internet to run properly.
 {% endhint %}
 
 {% hint style="success" %}
-This protection logs IPs of whoever access your file, and prevents known hackers from doing anything harmfull to your code.
+This protection logs IPs of whoever access your file, and prevents known hackers from doing anything harmful to your code.
 {% endhint %}
 
 {% hint style="success" %}
@@ -65,6 +65,6 @@ private void ignoreCaseButton_Click(object sender, EventArgs e)
 {% endhint %}
 
 {% hint style="info" %}
-**This protection's strength increases when selected with** [_**MSIL Coce Encryption**_](msil-code-encryption.md) **and** [_**Constants Protection**_](protections-of-constants.md)_\*\*\*\*_
+**This protection's strength increases when selected with** [_**MSIL Code Encryption**_](msil-code-encryption.md) **and** [_**Constants Protection**_](protections-of-constants.md)_\*\*\*\*_
 {% endhint %}
 

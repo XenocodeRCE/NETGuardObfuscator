@@ -14,7 +14,7 @@ NETGuard.IO prevent the renaming of public members for library \(.dll\) files, w
 
 Names are also used a decoding key for specific back-ground algorithm, therefore if the file got passed in de4dot and gets renamed, it will not run anymore.
 
-## Code Example
+## Code Exemple
 
 {% tabs %}
 {% tab title="BEFORE" %}
@@ -51,7 +51,7 @@ internal class TypeInitializationException
 {% endhint %}
 
 {% hint style="success" %}
-**Strength :** ⭐⭐⭐⭐⭐
+**Strenght :** ⭐⭐⭐⭐⭐
 {% endhint %}
 
 {% hint style="danger" %}
