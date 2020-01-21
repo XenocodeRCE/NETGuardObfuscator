@@ -16,13 +16,13 @@ Once done the application box with automatically be filled with the new project 
 Don't forget to fill in all the details if you want NETGuard to allow you to create the project
 {% endhint %}
 
-Initialy you can protect up to 6 different projects, and once you run out of projets to create, you can contact us so we can create new space on our servers for you.
+initially you can protect up to 6 different projects, and once you run out of projects to create, you can contact us so we can create new space on our servers for you.
 
 ![Fill in the information needed for your future project and select the main file](.gitbook/assets/002.png)
 
 ## Step 2 - Project Obfuscation Settings
 
-On this page you will be able to select **Obfuscation Settings** on the right, once clicked they will pop-up creating a list on the left on your screen. If you have a free plan you can select a minimum number of **Ofuscation Settings**, if you have any premium plans \(subscription or pay-per-use\) you can select everyone of them. When you are ready, click '**Obfuscate**'.
+On this page you will be able to select **Obfuscation Settings** on the right, once clicked they will pop-up creating a list on the left on your screen. If you have a free plan you can select a minimum number of **Obfuscation Settings**, if you have any premium plans \(subscription or pay-per-use\) you can select everyone of them. When you are ready, click '**Obfuscate**'.
 
 On this page you will also be able to update your project main file. We only allow files bellow 8MB size.
 
@@ -46,9 +46,9 @@ After that you will be redirected to the **Obfuscation Output page** to download
 
 ## Step 4 - Obfuscation Output Page
 
-On this page you will be able to download your obfuscated main file alone of with its original external dependencies, all packed in a .zip file \(Windows handle them by default\). This is conveniant in the case you have multiple versions of these external library dependencies.
+On this page you will be able to download your obfuscated main file alone of with its original external dependencies, all packed in a .zip file \(Windows handle them by default\). This is convenient in the case you have multiple versions of these external library dependencies.
 
-You have access to the selected features on the right, and the obfuscation engines log un the accordion menu.
+You have access to the selected features on the right, and the obfuscation engines log unat the bottom.
 
 ![Download your protected file alone or including its external dependencies ](.gitbook/assets/005.png)
 
