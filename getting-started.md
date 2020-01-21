@@ -48,7 +48,7 @@ After that you will be redirected to the **Obfuscation Output page** to download
 
 On this page you will be able to download your obfuscated main file alone of with its original external dependencies, all packed in a .zip file \(Windows handle them by default\). This is convenient in the case you have multiple versions of these external library dependencies.
 
-You have access to the selected features on the right, and the obfuscation engines log unat the bottom.
+You have access to the selected features on the right, and the obfuscation engines log at the bottom.
 
 ![Download your protected file alone or including its external dependencies ](.gitbook/assets/005.png)
 
