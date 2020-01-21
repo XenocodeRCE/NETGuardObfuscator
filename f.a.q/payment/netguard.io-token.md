@@ -10,7 +10,7 @@ It means that you will **only pay for what you use**, you will not be charged mo
 
 That means **you can select as many obfuscation features as you want**, in the end you will always pay only one token per file.
 
-Let's take an example with an imaginary program :
+Let's take an exemple with an imaginary program :
 
 | Filename | MD5 | Token cost |
 | :--- | :--- | :--- |
@@ -24,7 +24,7 @@ Let's take an example with an imaginary program :
 **Edited files, even only one byte, are considered to be different !**
 {% endhint %}
 
-As you can see, **if the last file you try to protect has its MD5 the same as the current file you want to obfuscate, the token cost is null**. That is meant to easily fix compatibility issue with strong obfuscation features.
+As you can see, **if the las file you try to protect has its MD5 the same as the current file you want to obfuscate, the token cost is null**. That is meant to easily fix compatibility issue with strong obfuscation features.
 
 However, **if you change / update the original file, its MD5 will change**, that is why **it will costs you a token**.
 
