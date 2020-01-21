@@ -19,7 +19,7 @@ We automatically remove the file from the computer if a debugger is found in ord
 {% endhint %}
 
 {% hint style="success" %}
-**Strenght :** ⭐⭐⭐⭐
+**Strength :** ⭐⭐⭐⭐
 {% endhint %}
 
 {% hint style="warning" %}

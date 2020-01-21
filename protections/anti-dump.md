@@ -17,7 +17,7 @@ NETGuard.IO prevent sensitive data from being dumped in memory by using unsafe x
 {% endhint %}
 
 {% hint style="success" %}
-**Strenght :** ⭐⭐⭐⭐
+**Strength :** ⭐⭐⭐⭐
 {% endhint %}
 
 {% hint style="warning" %}

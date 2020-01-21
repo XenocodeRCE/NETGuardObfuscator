@@ -76,7 +76,7 @@ private static void Main()
 {% endhint %}
 
 {% hint style="success" %}
-**Strenght :** ⭐⭐⭐⭐
+**Strength :** ⭐⭐⭐⭐
 {% endhint %}
 
 {% hint style="danger" %}

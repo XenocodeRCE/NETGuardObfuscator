@@ -51,7 +51,7 @@ internal class TypeInitializationException
 {% endhint %}
 
 {% hint style="success" %}
-**Strenght :** ⭐⭐⭐⭐⭐
+**Strength :** ⭐⭐⭐⭐⭐
 {% endhint %}
 
 {% hint style="danger" %}

@@ -67,7 +67,7 @@ array3[(3.0 * (double)num >= 10.0 + Math.Pow((double)num, 4.0) + (double)num * 3
 {% endhint %}
 
 {% hint style="success" %}
-**Strenght :** ⭐⭐⭐⭐⭐
+**Strength :** ⭐⭐⭐⭐⭐
 {% endhint %}
 
 {% hint style="info" %}

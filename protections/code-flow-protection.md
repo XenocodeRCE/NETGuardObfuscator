@@ -94,7 +94,7 @@ private void testButton_Click(object sender, EventArgs e)
 {% endhint %}
 
 {% hint style="success" %}
-**Strenght :** ⭐⭐⭐⭐
+**Strength :** ⭐⭐⭐⭐
 {% endhint %}
 
 {% hint style="danger" %}

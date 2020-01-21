@@ -41,7 +41,7 @@ ListViewItem listViewItem = <Module>.ó\u00B2)\u00A5Ä(calli(System.Windows.Form
 {% endhint %}
 
 {% hint style="success" %}
-**Strenght :** ⭐⭐⭐
+**Strength :** ⭐⭐⭐
 {% endhint %}
 
 {% hint style="success" %}

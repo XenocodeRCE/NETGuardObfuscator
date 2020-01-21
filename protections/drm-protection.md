@@ -61,10 +61,10 @@ private void ignoreCaseButton_Click(object sender, EventArgs e)
 {% endhint %}
 
 {% hint style="success" %}
-**Strenght :** ⭐⭐⭐⭐
+**Strength :** ⭐⭐⭐⭐
 {% endhint %}
 
 {% hint style="info" %}
-**This protection's strenght increases when selected with** [_**MSIL Coce Encryption**_](msil-code-encryption.md) **and** [_**Constants Protection**_](protections-of-constants.md)_\*\*\*\*_
+**This protection's strength increases when selected with** [_**MSIL Coce Encryption**_](msil-code-encryption.md) **and** [_**Constants Protection**_](protections-of-constants.md)_\*\*\*\*_
 {% endhint %}
 
